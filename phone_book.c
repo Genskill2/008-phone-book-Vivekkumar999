@@ -292,4 +292,4 @@ int search(FILE *db_file, char *name)
 
     free_entries(base);
     return search;
-} 
+}
